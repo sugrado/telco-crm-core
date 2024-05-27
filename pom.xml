@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.github.sugrado</groupId>
     <artifactId>core</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.3</version>
     <name>core</name>
     <description>Microservice core package</description>
     <packaging>jar</packaging>
